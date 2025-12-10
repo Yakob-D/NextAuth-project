@@ -1,6 +1,3 @@
-/**
- * Login page modeled after provided reference UI.
- */
 "use client";
 
 import Link from "next/link";
